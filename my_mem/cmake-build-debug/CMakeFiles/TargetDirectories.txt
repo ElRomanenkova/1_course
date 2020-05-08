@@ -1,0 +1,3 @@
+/home/liza/CLionProjects/my_mem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liza/CLionProjects/my_mem/cmake-build-debug/CMakeFiles/my_mem.dir
+/home/liza/CLionProjects/my_mem/cmake-build-debug/CMakeFiles/edit_cache.dir
